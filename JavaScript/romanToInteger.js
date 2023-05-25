@@ -1,4 +1,4 @@
-// Given a roman numeral, convert it to an integer.
+// Goal: Given a roman numeral, convert it to an integer.
 
 // Map roman numeral symbols to values, then iterate through each character in the input string. Add roman numeral logic, such as: If the current character is less than the next character, subtract the current character from the next character and add that value to the result. Otherwise, add the value of the current character to the result. Return the result.
 

@@ -1,3 +1,5 @@
+// Goal: Given an array of sentences, find the maximun number of words that appear in a single sentence.
+
 // initialize most words, iterate over each sentence, break the sentence into an array of words, get the number of words in the sentence, compare the number of words in each sentence, and update numWords into mostWords if a sentence has more. 
 
 var mostWordsFound = function(sentences) {
