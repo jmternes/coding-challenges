@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(27, 32, 32);
+}
+
+.team-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    margin-top: 2rem;
+    margin-left: 5rem;
+    gap: 1rem;
+    font-size: 1.8rem;
+    font-family: 'Spectral', serif;
+}
+
+button {
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    background-color: rgb(27, 32, 32);
+    border: 3px solid white;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    color: white;
+    font-family: 'Spectral', serif;
+    font-size: 1.8rem;
+    cursor: pointer;
+}
